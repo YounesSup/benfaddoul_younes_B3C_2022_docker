@@ -7,7 +7,7 @@ Par la suite si vous voulez vous pouvez créer un compte Docker Hub à partir de
 <br>
 
 ### Deuxième étape :
-Avant de commencer la pratique nous allons vérifier que nous possédons bien Docker, pour cela nous allons taper la commande docker --help, si nous avons tout une liste de commande qui s'affiche cela veut dire que nous avons bien docker d'installer sur notre PC.<br>
+Avant de commencer la pratique nous allons vérifier que nous possédons bien Docker, pour cela nous allons taper la commande docker --help, si nous avons tout une liste de commande qui s'affiche cela veut dire que nous avons bien docker d'installer sur notre PC.
 <br>
 <br>
 
