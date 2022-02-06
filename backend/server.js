@@ -66,6 +66,6 @@ mongoose
     'mongodb://mongo/messageNode', {useNewUrlParser: true}
   )
   .then(result => {
-    app.listen(8080);
+    app.listen(3000);
   })
   .catch(err => console.log(err));
