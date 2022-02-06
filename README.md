@@ -1,4 +1,4 @@
-## Projet Docker
+# Projet Docker
 
 ### Première étape :
 Nous allons tout d'abord installer Docker Desktop à partir de ce lien : https://www.docker.com/products/docker-desktop.<br>
@@ -11,7 +11,7 @@ Avant de commencer la pratique nous allons vérifier que nous possédons bien Do
 Après avoir récupérer le projet API REST qui comporte une partie backend (API rest) et une partie frontend (reactJS), nous allons entrer dans le dossier qui comporte ses dossiers via le terminal de commande, pour ma part j'ai entrer cd C:\Users\youne\benfaddoul_younes_B3C_2022_docker.
 
 ### Quatrième étape :
-Une fois les fichiers DockerFile (pour builder notre image) et Docker-compose (démarrer les containers/services) créer, nous allons lancer la commande docker-compose up -d
+Une fois les fichiers DockerFile (pour builder notre image) et Docker-compose (démarrer les containers/services) créer, nous allons lancer la commande docker-compose up -d.
 
 ### Dernière étape :
-Une fois l'image et les containers créer nous allons nous rendre sur le site http://localhost:3000 pour le résultat
+Une fois l'image et les containers créer nous allons nous rendre sur http://localhost:3000 pour le résultat (/!\ Ne pas oublier de bien modifier le port sur le fichier server.js).
